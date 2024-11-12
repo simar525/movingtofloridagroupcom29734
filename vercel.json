@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://movingtoflordiagroup.skyhighbrands.site/$1"
+ }
+  ]
+}
